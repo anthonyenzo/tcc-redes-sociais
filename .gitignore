@@ -1,0 +1,24 @@
+# Ignorar cache e arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# Ignorar pastas virtuais e ambientes
+env/
+venv/
+.venv/
+
+# Ignorar dados e modelos pesados
+*.csv
+*.bson
+*.json
+meu_modelo_treinado/
+*.pt
+*.h5
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
