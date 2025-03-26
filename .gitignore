@@ -16,6 +16,8 @@ venv/
 *.bson
 *.json
 meu_modelo_treinado/
+modelo_roberta_treinado/
+modelo_bert_treinado/
 *.pt
 *.h5
 
