@@ -18,6 +18,7 @@ venv/
 meu_modelo_treinado/
 modelo_roberta_treinado/
 modelo_bert_treinado/
+modelo_30epocas_treinado/
 *.pt
 *.h5
 
